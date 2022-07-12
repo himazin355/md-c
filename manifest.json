@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Markdown Copy",
   "description": "A Chrome Extension to copy page links and images in Markdown format"
-  "version": "0.1",
+  "version": "0.2",
   "icons": {
     "16": "icon.png",
     "24": "icon.png",
